@@ -4,30 +4,6 @@
 ```
 npm install
 ```
-## Usage
-
-```javascript
-
-import webrtcrecorder from 'webrtc-vue'
-export default {
-    name: 'App',
-    components: {
-        webrtcrecorder
-    },
-    ...
-
-```
-
-### Methods
-
-| name           | description                                                             |
-| -------------- | ------------------------------------------------------------------------|
-| startStreaming | start video streaming                                                   |
-| stopStreaming  | stop video Streaming                                                    |
-| startRecording | start recording the video stream                                        |
-| stopRecording  | stop recording the video stream                                         |
-| screenShot     | take a screenshot of the video stream                                   |
-| ShareScreen    | start sharing the content of the screen                                 |
 
 ### usage of methods
 ```
@@ -64,6 +40,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ## License
 
 MIT
-## Credits
 
-Author: [@HussienMN on GitHub ](https://github.com/HussienMN).
