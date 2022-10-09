@@ -67,7 +67,3 @@ MIT
 ## Credits
 
 Author: [@HussienMN on GitHub ](https://github.com/HussienMN).
-
-The idea of usage or calling the methods is inspired by the following project but the entire code is different:
-
-[vue-webrtc](https://github.com/westonsoftware/vue-webrtc)
